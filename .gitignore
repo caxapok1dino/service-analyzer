@@ -4,4 +4,4 @@ __pycache__/
 
 .env
 
-test.__pycache__
+.DS_Store
