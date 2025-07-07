@@ -1,0 +1,7 @@
+.trash/
+
+__pycache__/
+
+.env
+
+test.__pycache__
