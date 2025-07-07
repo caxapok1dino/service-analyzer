@@ -1,0 +1,17 @@
+{
+    "name": "megamarket",
+    "description": "magamarket rule",
+    "host": [
+        "(?:[\\w\\-\\.]+)?(?:sber)?megamarket\\.[\\w]+",
+        "(?:\\w\\-\\.)?school-megaseller\\.uznaipro\\.ru"
+    ],
+    "domains": [
+        "megamarket.tech",
+        "megamarket.ru",
+        "sbermegamarket.ru",
+        "school-megaseller.uznaipro.ru"
+    ],
+    "http-path": [
+        "(\\/(?:mid\\d\\/)?hlr-system\\/.?[\\d\\/\\w\\-]+\\.\\w+)"
+    ]
+}
