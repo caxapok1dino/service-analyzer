@@ -8,3 +8,5 @@ __pycache__/
 
 *.pcap
 *.log
+
+test.py
